@@ -1,0 +1,35 @@
+# Temporary files
+tmpclaude-*
+*.lock
+!package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local plugin state
+.claude/*.local.md
+.claude/*.local.json
+
+# Exploration folders (created by P-Thread)
+exploration_*/
+
+# Temporary solutions (created by F-Thread)
+solution_A.*
+solution_B.*
+solution_C.*
+
+# Task tracking (created by B-Thread)
+TASKS.todo
+
+# Verification lock (created by L-Thread)
+verified.lock
+
+# Plan files (created by C-Thread)
+MIGRATION_PLAN.md

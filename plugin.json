@@ -1,0 +1,6 @@
+{
+  "name": "agents-threads",
+  "version": "1.0.0",
+  "description": "Thread-based execution patterns for Claude Code - 7 specialized workflows for different task types",
+  "skills": ".claude/skills"
+}
