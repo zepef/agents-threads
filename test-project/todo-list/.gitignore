@@ -1,0 +1,7 @@
+# Temp files
+tmpclaude-*
+node_modules/
+todos.json
+verified.lock
+TASKS.todo
+*.lock
